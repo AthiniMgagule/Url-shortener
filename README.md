@@ -1,10 +1,3 @@
-Ahh I see what happened — when GitHub renders, those “Copy code / bash / arduino” lines you pasted aren’t actual Markdown, they came from a code block preview somewhere.
-
-Let me give you a **clean Markdown-only README.md** that will render properly on GitHub, without those extra artifacts.
-
----
-
-````markdown
 # 🔗 URL Shortener
 
 A simple **URL Shortener** built with **React (frontend)** and **Spring Boot (backend)**.  
